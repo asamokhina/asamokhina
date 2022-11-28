@@ -1,4 +1,8 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there 👋 I like Python, projects with decent color schemas, and crimp bouldering holds.
+
+:sparkles:
+
+ Checkout <a href="overlap.day/">overlap</a> - a tool to find time to finally have a call with your busy friends</samp></h4>
 
 <!--
 **asamokhina/asamokhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
