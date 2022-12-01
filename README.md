@@ -2,7 +2,7 @@
 
 :sparkles:
 
- Checkout <a href="overlap.day/">overlap</a> - a tool to find time to finally have a call with your busy friends</samp></h4>
+ Checkout <a href="[overlap.day](https://overlap.day/)/">overlap</a> - a tool to find time to finally have a call with your busy friends</samp></h4>
 
 <!--
 **asamokhina/asamokhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
